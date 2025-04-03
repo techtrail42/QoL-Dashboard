@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly.express
+importlib
+altair
+plotly.graph_objects
