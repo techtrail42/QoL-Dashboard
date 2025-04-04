@@ -249,7 +249,7 @@ def app():
         # Ensure at least one continent is selected
         if not selected_continents:
             st.warning("Please select at least one continent.")
-            selected_continents = [continents[0]]  # Default to first continent if none selected
+         #   selected_continents = [continents[0]]  # Default to first continent if none selected
         
         st.divider()
         st.subheader("📊 Indicator Filters")
